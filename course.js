@@ -3,7 +3,7 @@ var slate = $('#refreshPlaceholder');
 var modal = $('.ts.modal');
 
 /* System variables */
-var host = "/ajax/course";
+var host = "/course.json";
 var courses = [];
 
 /* Templates */
