@@ -1,44 +1,44 @@
 [
     {
         "name":"Java",
-        "icon":"file icon",
+        "icon":"coffee icon",
         "time":"週一",
-        "description":"SAD Java",
+        "description":"Java是一個注重應用的語言，其面向從一般電腦程式(如Minecraft)，到網頁、資料庫(如中華郵政網頁)，以及各種電子產品、手機應用程式等都是Java的範疇。<br>Java也很注重物件導向程式開發(Object Oriented Programming)，用這樣的方式寫出來的程式碼往往更加清晰易懂。",
         "image":"https://tocas-ui.com/assets/img/15d7510.png"
     },
     {
         "name":"Web",
-        "icon":"code icon",
+        "icon":"html5 icon",
         "time":"週二",
-        "description":"SAD Web",
+        "description":"學習網頁開發的三大語言: HTML、CSS、JS，帶你開發美觀又實用的網頁。",
         "image":"https://tocas-ui.com/assets/img/15d7510.png"
     },
     {
         "name":"C++",
-        "icon":"desktop icon",
+        "icon":"code icon",
         "time":"週三",
-        "description":"SAD C++",
+        "description":"C++是現今世界四大語言之一，以C語言為基礎，增加了物件導向程式設計的概念，又兼有C語言效率較佳的特點，並且程式邏輯清晰，在業界佔有一定的地位，在競賽中，C++也是最常見的語言，更是許多程式新手的入門語言，我們將從基礎語法講起，一步一步帶領各位進入C++的領域。",
         "image":"https://tocas-ui.com/assets/img/15d7510.png"
     },
     {
-        "name":"Python",
-        "icon":"refresh icon",
+        "name":"Python & ML",
+        "icon":"fork icon",
         "time":"週四",
-        "description":"SAD Python",
+        "description":"機器學習是一個被用在許多產業界的技術，信用卡盜刷偵測、車牌辨識、聊天機器人、自動駕駛，都有機器學習的蹤影，深度學習更是其中很受歡迎的 一個領域。在這堂社課中，各位將親手實作出類神經網路，並且了解卷積神經網路等各種變體，獲得自己進一步探索Deep Learning的能力。",
         "image":"https://tocas-ui.com/assets/img/15d7510.png"
     },
     {
         "name":"電腦組裝",
         "icon":"server icon",
         "time":"週五",
-        "description":"SAD Computer",
+        "description":"電腦組裝、硬體知識",
         "image":"https://tocas-ui.com/assets/img/15d7510.png"
     },
     {
         "name":"四校聯課",
         "icon":"delete icon",
         "time":"",
-        "description":"SAD Computer",
+        "description":"敬請期待",
         "image":"https://tocas-ui.com/assets/img/15d7510.png"
     }
 ]
